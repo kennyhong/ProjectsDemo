@@ -1,2 +1,2 @@
 # ProjectsDemo
-Projects Board Demo
+Projects Board Demonstration
